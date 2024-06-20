@@ -1,0 +1,7 @@
+series_name = "Jamnapaar"
+platform_name = "Android"
+device_name = "emulator-5554"
+automation_name = "UiAutomator2"
+app_package = "com.amazon.minitv.android.app"
+app_activity = "com.amazon.minitv.android.app.activities.MiniTVMainActivity"
+appium_url = "http://localhost:4723/wd/hub"
